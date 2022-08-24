@@ -21,12 +21,12 @@ https://www.kaggle.com/datasets/hugomathien/soccer
 ### Dataset Description
 This is an European Soccer dataset for Seasons 2008 to 2016. The dataset contains
 
-7 Tables
-11 Countries
-11 Leagues
-Over 10,000 Players
-Over 25,000 Matches
-Over 200 Teams
+* 7 Tables
+* 11 Countries
+* 11 Leagues
+* Over 10,000 Players
+* Over 25,000 Matches
+* Over 200 Teams
 
 ## Question(s) for Analysis
 1. What teams had the highest goals in all the seasons?
